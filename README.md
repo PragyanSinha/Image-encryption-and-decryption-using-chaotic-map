@@ -1,6 +1,6 @@
 
 
-# Image Encryption Using XOR and Chaotic Keys
+# Image Encryption and decryption using chaoatic map
 
 ## Project Overview
 
